@@ -1,0 +1,10 @@
+{
+  "version": "1.2.1",
+  "is_mandatory": false,
+  "download_url": "https://teetah.art/download",
+  "changelog": [
+    "Fixed a critical bug in the licensing system.",
+    "Improved performance of the workflow canvas.",
+    "Added new icons for several modules."
+  ]
+}
